@@ -9,3 +9,4 @@ Our Wedding Website!
 * [ ] implement rsvps
 * [ ] add engagement photos as we get them.
 * [ ] add registry stuff
+* [ ] backend rails for rsvps?
